@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Construction Planner</string>
+    <string name="facebook_application_id" translatable="false">1647043492261855</string>
+    <string name="addConstruction">Add Construction</string>
+    <string name="updateConstruction">Update Construction</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deleteButton">DELETE</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ListEmptyMessage">No Constructions in List</string>
+    <string name="Construction_name">Construction Name</string>
+    <string name="number_of_steps_in_this_Construction">Number of Steps in this Construction</string>
+    <string name="save_Construction">Save Construction</string>
+    <string name="Construction_x">Construction X</string>
+    <string name="Construction_start_date">Construction Start Date</string>
+    <string name="Construction_members_sperate_with_a_comma">Construction Members sperate with a comma</string>
+    <string name="john_doe_joe_bloggs">John Doe, Joe Bloggs</string>
+    <string name="recentlyViewedEmptyMessage">No Constructions added</string>
+    <string name="title_map">Map</string>
+    <string name="google_maps_key">AIzaSyCChUhcSXWG6LIPF4acv74pgvVb-CHF7wQ </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="addAConstructionLbl">Add Construction</string>
+    <string name="updateAConstructionLbl">Update Construction</string>
+    <string name="searchConstructionHint">Construction X</string>
+    <string name="searchAConstructionLbl">Search Construction</string>
+    <string name="edit_Construction">EDIT Construction</string>
+
+    <string name="unknown_response">UnKnown response Please Check Internet Connection</string>
+    <string name="signin_failed">Failed signin</string>
+    <string name="user_profile">Welcome to your profile page</string>
+    <string name="profile_title">User Profile</string>
+    <string name="user_name">Inducesmile</string>
+    <string name="logout">LOGOUT</string>
+    <string name="delete_user">DELETE USER</string>
+    <string name="sign_out_error">Failed to sign out</string>
+    <string name="user_deletion_error">Failed to delete user</string>
+
+    <string name="project_type_prompt">Choose a Type</string>
+    <string-array name="types_array">
+        <item>New Building</item>
+        <item>Building Repairs</item>
+        <item>Extension</item>
+        <item>Demolish</item>
+    </string-array>
+    <string-array name="search_array">
+        <item>all</item>
+        <item>New Building</item>
+        <item>Building Repairs</item>
+        <item>Extension</item>
+        <item>Demolish</item>
+
+    </string-array>
+</resources>
