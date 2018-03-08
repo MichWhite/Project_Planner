@@ -26,11 +26,11 @@ The last API this application uses is the Google Firebase API to authenticate th
 ### Authentication  
 In the application users can login in using their Google account, their email or their Facebook account. The dataflow diagram below shows how the authentication for firebase works.
 
-![ScreenShot](/diagram.jpeg)
+![ScreenShot](/diagram.jpg)
 
 ## UML Diagram
 
-![ScreenShot](/uml Diagram.jpeg)
+![ScreenShot](/uml-Diagram.jpg)
 
 
 
@@ -40,27 +40,27 @@ The first screen the users will see is the is the splash screen this screen will
 
 
   
-![ScreenShot](splash-screen.jpeg)
-![ScreenShot](/login.jpeg)
+![ScreenShot](splash-screen.jpg)
+![ScreenShot](/login.jpg)
 
 
 	
 The user will then be shown a list of projects that they have previously saved. They will also be a navigation drawer that the use can navigate to different activities and fragments such as Add, Search, Map and Sign Out.
 
-![ScreenShot](/drawer.jpeg)
+![ScreenShot](/drawer.jpg)
 
 The user can Then Add a Project this will display the add Project screen allowing the user to enter the project Name, Project Start Date, estimated finish date, number of steps, Project Members and Project Location. All this data will be store so the use can edit and search for it later. 
 
-![ScreenShot](/add.jpeg)
+![ScreenShot](/add.jpg)
 
 The user can press the Add Location Button to pick a location for this project. This screen is displayed using the Google Places API. On this screen the user can search for a location, get their current location or drop the marker anywhere on the map. They can then select that place and the location, latitude and longitude will be added to the Database and project.
  
-![ScreenShot](/map.jpeg)
+![ScreenShot](/map.jpg)
 
 
 After Adding the project the user can see their project added to the lists of projects and they can edit the project by clicking on the details or delete it by clicking on the delete icon which they will be then prompted with a message asking to confirm to delete their project.
 
-![ScreenShot](/list.jpeg)
+![ScreenShot](/list.jpg)
 
 
 
@@ -70,7 +70,7 @@ After Adding the project the user can see their project added to the lists of pr
 
 If the user clicks on “Project Map” from the navigation drawer they can see all their projects location in one map, they can also see the name and address of the Project. This can be seen in the image below
 
-![ScreenShot](/add-to-map.jpeg)
+![ScreenShot](/add-to-map.jpg)
  
 Just from looking at the screens that are displayed it can been seen that the developer has meet all of the requirement discussed earlier.
 
@@ -81,7 +81,10 @@ The Application meets all off the requirements and is deemed a success although 
 
 ## References
 [https://firebase.google.com/docs/]
+
 [https://developers.google.com/maps/documentation/android-api/]
+
 [https://developer.android.com/training/implementing-navigation/nav-drawer.html]
+
 [https://developers.google.com/places/documentation/]
 
