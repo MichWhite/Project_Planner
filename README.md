@@ -26,11 +26,11 @@ The last API this application uses is the Google Firebase API to authenticate th
 ### Authentication  
 In the application users can login in using their Google account, their email or their Facebook account. The dataflow diagram below shows how the authentication for firebase works.
 
-![alt text](https://github.com/MichWhite/ProjectPlanner/diagram.jpeg)
+![ScreenShot](/diagram.jpeg)
 
-## UML Diagram 
+## UML Diagram
 
-![alt text](https://github.com/MichWhite/ProjectPlanner/uml Diagram.jpeg)
+![ScreenShot](/uml Diagram.jpeg)
 
 
 
@@ -40,27 +40,27 @@ The first screen the users will see is the is the splash screen this screen will
 
 
   
-![alt text](https://github.com/MichWhite/ProjectPlanner/splash-screen.jpeg)
-
-![alt text](https://github.com/MichWhite/ProjectPlanner/login.jpeg)
+![ScreenShot](splash-screen.jpeg)
+![ScreenShot](/login.jpeg)
 
 
 	
 The user will then be shown a list of projects that they have previously saved. They will also be a navigation drawer that the use can navigate to different activities and fragments such as Add, Search, Map and Sign Out.
 
-![alt text](https://github.com/MichWhite/ProjectPlanner/drawer.jpeg)
+![ScreenShot](/drawer.jpeg)
 
 The user can Then Add a Project this will display the add Project screen allowing the user to enter the project Name, Project Start Date, estimated finish date, number of steps, Project Members and Project Location. All this data will be store so the use can edit and search for it later. 
- ![alt text](https://github.com/MichWhite/ProjectPlanner/add.jpeg)
+
+![ScreenShot](/add.jpeg)
 
 The user can press the Add Location Button to pick a location for this project. This screen is displayed using the Google Places API. On this screen the user can search for a location, get their current location or drop the marker anywhere on the map. They can then select that place and the location, latitude and longitude will be added to the Database and project.
  
-![alt text](https://github.com/MichWhite/ProjectPlanner/map.jpeg)
+![ScreenShot](/map.jpeg)
 
 
 After Adding the project the user can see their project added to the lists of projects and they can edit the project by clicking on the details or delete it by clicking on the delete icon which they will be then prompted with a message asking to confirm to delete their project.
 
-![alt text](https://github.com/MichWhite/ProjectPlanner/list.jpeg)
+![ScreenShot](/list.jpeg)
 
 
 
@@ -69,8 +69,8 @@ After Adding the project the user can see their project added to the lists of pr
 
 
 If the user clicks on “Project Map” from the navigation drawer they can see all their projects location in one map, they can also see the name and address of the Project. This can be seen in the image below
-![alt text](https://github.com/MichWhite/ProjectPlanner/add-to-map.jpeg)
 
+![ScreenShot](/add-to-map.jpeg)
  
 Just from looking at the screens that are displayed it can been seen that the developer has meet all of the requirement discussed earlier.
 
